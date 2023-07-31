@@ -26,5 +26,5 @@ $ roslaunch localization mapping.launch
 
 ```sh
 $ source devel/setup.bash
-$ roslaunch teleop_twist_keyboard teleop_twist_keyboard.launch
+$ roslaunch teleop_twist_keyboard teleop.launch
 ```
