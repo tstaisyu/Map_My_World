@@ -4,7 +4,7 @@
 <img src=3Dmap.png width=800 />
 
 
-rtabmap.db file is [here](https://1drv.ms/u/s!AmeLVFYQNkfqxSstSerZlwgd3PJm?e=Q4igg3).
+rtabmap.db file is [here](https://drive.google.com/file/d/1ckwr4LpbzcU4ebOojkYGsW2GrYUrZ4KL/view?usp=sharing).
 
 ## To start a simulation
 
